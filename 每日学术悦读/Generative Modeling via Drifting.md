@@ -147,7 +147,9 @@ flowchart LR
 
 定义两个局部加权平均：
 
-\[ \mu_p(x)= \frac{\mathbb E_{y\sim p}[k_\tau(x,y)y]} {\mathbb E_{y\sim p}[k_\tau(x,y)]}, \]\[ \mu_q(x)= \frac{\mathbb E_{y\sim q}[k_\tau(x,y)y]} {\mathbb E_{y\sim q}[k_\tau(x,y)]}. \]
+\[ \mu_p(x)= \frac{\mathbb E_{y\sim p}[k_\tau(x,y)y]} {\mathbb E_{y\sim p}[k_\tau(x,y)]}, \]
+
+\[ \mu_q(x)= \frac{\mathbb E_{y\sim q}[k_\tau(x,y)y]} {\mathbb E_{y\sim q}[k_\tau(x,y)]}. \]
 
 真实样本的吸引方向是 \(\mu_p(x)-x\)，生成样本的排斥方向是 \(-(\mu_q(x)-x)\)。相加后：
 
