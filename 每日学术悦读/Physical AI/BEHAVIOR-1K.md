@@ -34,3 +34,7 @@ Jim Fan 支持统一、可复现的机器人评测，但这不等于验证 sim2r
 - [Mark Stefik：What AIs are not learning (and why)](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12213)
 - [Jim Fan 的 X 发言](https://x.com/DrJimFan/status/1966877464598094334)（正文由公开索引核对，原帖页面未能直接读取）
 - [Comet 评测耗时反馈](https://github.com/mli0603/openpi-comet/issues/25)；[复现配置讨论](https://github.com/mli0603/openpi-comet/issues/17)
+
+## 相关精选追问
+
+- [阶段分像 pass@k 吗？评分规则怎样影响策略？](../../%E8%BF%BD%E9%97%AE%E8%AE%B0%E5%BD%95/%E8%AE%BA%E6%96%87/%E9%98%B6%E6%AE%B5%E8%AF%84%E5%88%86%E4%B8%8E%E7%AD%96%E7%95%A5%E9%80%89%E6%8B%A9.md)

@@ -41,3 +41,8 @@ RoboDojo 是机器人操作评测基准，不是 VLA、WAM 或训练算法。已
 [2] [官方项目与榜单](https://robodojo-benchmark.com/)。
 
 整理依据：此前关于 RoboDojo 及相关参评方法的讨论，并对照论文核实；贡献判断与评测解读属于阅读评价。
+
+## 相关精选追问
+
+- [RoboDojo：平台价值、评分漏洞与架构归因](../../%E8%BF%BD%E9%97%AE%E8%AE%B0%E5%BD%95/%E8%AE%BA%E6%96%87/RoboDojo%E7%9A%84%E8%AF%84%E6%B5%8B%E6%9C%89%E6%95%88%E6%80%A7.md)
+- [阶段分像 pass@k 吗？评分规则怎样影响策略？](../../%E8%BF%BD%E9%97%AE%E8%AE%B0%E5%BD%95/%E8%AE%BA%E6%96%87/%E9%98%B6%E6%AE%B5%E8%AF%84%E5%88%86%E4%B8%8E%E7%AD%96%E7%95%A5%E9%80%89%E6%8B%A9.md)
