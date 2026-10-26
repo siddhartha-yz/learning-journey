@@ -1,0 +1,31 @@
+{
+  "a": 2.0,
+  "tau": 1.0,
+  "scope": "Analytic diagnostic for Eq. (8)-(12), not an ImageNet reproduction.\n\np = .5 delta(-a) + .5 delta(a); q_s = .5 delta(-s) + .5 delta(s).\nAt s=0, q is a single atom. Uses the paper's Laplace-distance kernel.\nReports the population raw field; no drift normalization or SGD is applied.\n",
+  "results": [
+    {
+      "s": 0.0,
+      "raw_drift_squared_on_q": 0.0,
+      "W2_squared": 4.0,
+      "drift_at_external_probe_x_1": 1.5231883119115297
+    },
+    {
+      "s": 0.001,
+      "raw_drift_squared_on_q": 3.9959983359999045e-06,
+      "W2_squared": 3.9960010000000006,
+      "drift_at_external_probe_x_1": 1.523187311911863
+    },
+    {
+      "s": 0.01,
+      "raw_drift_squared_on_q": 0.00039598360082928626,
+      "W2_squared": 3.9601,
+      "drift_at_external_probe_x_1": 1.5230883152447297
+    },
+    {
+      "s": 0.1,
+      "raw_drift_squared_on_q": 0.03586069004074247,
+      "W2_squared": 3.61,
+      "drift_at_external_probe_x_1": 1.513221512449034
+    }
+  ]
+}

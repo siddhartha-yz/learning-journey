@@ -14,7 +14,7 @@ from torch_panel import TorchPanel
 
 class Lab(Gtk.Window):
     def __init__(self):
-        super().__init__(title='Learning Notes · 实践工坊')
+        super().__init__(title='Learning Journey · 实践工坊')
         self.set_default_size(1120, 800)
         self.set_position(Gtk.WindowPosition.CENTER)
         self.is_fullscreen = False
