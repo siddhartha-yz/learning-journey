@@ -6,6 +6,6 @@
 
 版权与合理使用边界：从思想表达二分法与合理使用四要素切入，厘清了生成式模型训练的合法转换性抗辩与盗版语料存储侵犯的司法红线；
 
-语料库技术严谨：系统总结了从C4启发式规则、CCNet语言模型大份，到RefinedWeb、FineWeb、DCLM模型化判别筛选与CommonPile纯合规授权的十万亿级数据🈲路径；
+语料库技术严谨：系统总结了从C4启发式规则、CCNet语言模型大份，到RefinedWeb、FineWeb、DCLM模型化判别筛选与CommonPile纯合规授权的十万亿级数据路径；
 
 工业前沿工程落地：解构了Stanford Marin Issue #843 中FineWeb-Edu在Datakit DAG架构下的五大过滤器实现细节，辨析了NVIDIA Nemotron-CC规避启发式误杀与合成重述的破局思路，以及Xiaomi MiMo 25T语料的专用公式与代码结构化解析流水线与三阶段递进课程机制
